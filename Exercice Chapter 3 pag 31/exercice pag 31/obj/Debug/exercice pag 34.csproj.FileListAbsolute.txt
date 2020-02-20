@@ -1,0 +1,4 @@
+C:\Deidre\exercice pag 34\exercice pag 34\obj\Debug\exercice pag 34.csprojAssemblyReference.cache
+C:\Deidre\exercice pag 34\exercice pag 34\obj\Debug\exercice_pag_34.frmMain.resources
+C:\Deidre\exercice pag 34\exercice pag 34\obj\Debug\exercice pag 34.csproj.GenerateResource.cache
+C:\Deidre\exercice pag 34\exercice pag 34\obj\Debug\exercice pag 34.csproj.CoreCompileInputs.cache

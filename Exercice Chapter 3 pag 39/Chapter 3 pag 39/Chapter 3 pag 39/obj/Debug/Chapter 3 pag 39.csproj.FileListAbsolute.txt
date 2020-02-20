@@ -1,0 +1,7 @@
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\bin\Debug\Chapter 3 pag 39.exe.config
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\bin\Debug\Chapter 3 pag 39.exe
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\bin\Debug\Chapter 3 pag 39.pdb
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\obj\Debug\Chapter 3 pag 39.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\obj\Debug\Chapter 3 pag 39.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\obj\Debug\Chapter 3 pag 39.exe
+C:\Deidre\Module 3\Chapter 3\Exercice Chapter 3\Chapter 3 pag 39\Chapter 3 pag 39\obj\Debug\Chapter 3 pag 39.pdb
